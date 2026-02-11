@@ -1,0 +1,7 @@
+{
+  "name": "Campus Marketplace",
+  "description": "A dark-themed university marketplace for students to buy and sell textbooks, electronics, and dorm essentials.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
