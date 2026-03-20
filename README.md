@@ -41,7 +41,6 @@ npm install
 # Create environment file
 touch .env.local
 ```
-Add your `GEMINI_API_KEY` (if using AI features) to `.env.local`.
 
 ### 3. Backend Setup
 ```bash
