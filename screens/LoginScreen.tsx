@@ -90,7 +90,7 @@ const LoginScreen: React.FC<Props> = ({ onLogin }) => {
               Your Campus<br />Marketplace
             </h1>
             <p className="text-xl md:text-2xl text-white/80 font-medium leading-relaxed max-w-2xl mx-auto">
-              Buy and sell textbooks, dorm gear, and more with students at your university. Trusted by 50,000+ students.
+              Buy and sell textbooks, dorm gear, and more with students at your university.
             </p>
           </div>
 
